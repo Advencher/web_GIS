@@ -65,7 +65,7 @@ class SpeciesUnitTest extends TestCase
 
         $this->getActualOutput();
         $id_phyto = 1;
-        while (sizeof($phytos = DB::table('view_new_phytos3')->select('*')->where('id_phyto','=', $id_phyto), 1) == 0 || $id_phyto > 200) {
+		while (sizeof($id_phyto > 200 || $phytos = DB::table('view_new_phytos3')->select('*')->where('id_phyto','=', $id_phyto), 1) == 0 ) {
             $id_phyto++;
         }
 
