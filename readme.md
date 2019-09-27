@@ -3,12 +3,12 @@ d## Web-geoinformation system (bachelor graduation work)
 What i've learned
 
 - Creating complicated SQL requests (unfortunatly i can't give any access to database to show it), but for a small overview:
-  1. Writing request and relation CRUD rules to views containing large number of entities 
+  1. Writing requests and relationally CRUD rules to views containing large number of entities 
   2. Managing data integrity
   3. Hiding complicated relation scheme from other aspects of development (creating interfeces in a form of Postgresql views)
 - Building user-friendly UIs with html, css and JavaScript
-- Using different JacaScript open-source libraries (implemeting thier work in code)
-- Inegrating Yandex map API
+- Using different JacaScript open-source libraries (implementing their work in code)
+- Integrating Yandex map API
 
 ## About Laravel (the framework i've been using for this work)
 
