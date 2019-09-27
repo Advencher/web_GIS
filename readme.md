@@ -1,4 +1,4 @@
-d## Web-geoinformation system (bachelor graduation work)
+## Web-geoinformation system (bachelor graduation work)
 
 What i've learned
 
